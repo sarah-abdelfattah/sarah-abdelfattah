@@ -35,6 +35,6 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=sarah-abdelfattah&count_private=true&show_icons=true&include_all_commits=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarah-abdelfattah&hide=TeX&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarah-abdelfattah&hide=jupyter%20notebook&layout=compact)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=sarah-abdelfattah)
