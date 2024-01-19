@@ -1,4 +1,4 @@
-###  Hi there
+###  Hi there!
 
 * 👋 This is Sarah Abdelfattah, a tech enthusiast. 
 * 🎓 Computer science and engineering graduate from [The German University in Cairo](https://www.guc.edu.eg/).
@@ -8,8 +8,8 @@
 * 🌱 Curious for exploring
 
 ## ⚡ Reach out
-
 ![Static Badge](https://img.shields.io/badge/-sarah--abdelfattah-red?style=flat-square&logo=Linkedin&logoColor=%23ffffff&labelColor=%235c5c5c&color=%230b65c2&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsarah-abdelfattah%2F)
+![Static Badge](https://img.shields.io/badge/-sarah__abdfattah-red?style=flat-square&logo=Twitter&logoColor=%23ffffff&labelColor=%235c5c5c&color=%231D9BF0&link=https%3A%2F%2Fwww.twitter.com%2Fsarah_abdfattah%2F)
 ![Static Badge](https://img.shields.io/badge/-sarah.abdelfattah99%40gmail.com-red?style=flat-square&logo=Gmail&logoColor=%23ffffff&labelColor=%235c5c5c&color=%23c5221f&link=mailto%3Asarah.abdelfattah%40gmail.com)
 
 ## ⚡ Technologies
